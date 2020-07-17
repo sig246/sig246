@@ -1,7 +1,11 @@
 ### ニートのリポジトリへようこそ
 
 ### Skills
-- C#, PHP, JavaScript, Node.js
+- GCP(GCE, GAE, CloudSQL, etc...)
+- C#, PHP, JavaScript, Node.js, Java
+- Oracle, MySQL
+- AIX, Linux
+- Apache, nginx, WebLogic
 
 ### Career
 - NSSMC Grp System Engineer(2009-2019)
