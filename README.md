@@ -1,4 +1,4 @@
-### ニートのリポジトリへようこそ
+### リポジトリへようこそ
 
 ### Skills
 - GCP(GCE, GAE, CloudSQL, etc...)
@@ -11,4 +11,3 @@
 - NSSMC Grp System Engineer(2009-2019)
   - Production control system(Electronics company)
   - Domestic core system(Travel agency company)
-- NEET(2019-)
